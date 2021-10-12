@@ -1,4 +1,4 @@
-# JARVIS V3
+# SPYRO SER V1
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -14,7 +14,7 @@
 </p>
 </details>
 
-## THANKS TO SPARROW
+## THANKS TO SPYRO
 
 # CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
@@ -50,8 +50,8 @@
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
-* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
+* [`WhatsApp Number `](https://wa.me/+918590299146)
+* [`WhatsApp Group `]( GROUP ELLA)
 
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
